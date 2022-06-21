@@ -1,10 +1,5 @@
 function NewProject() {
-    return(
-        <div>
-            <h1>NewProject</h1>
-            <p>Conteúdo NewProject</p>
-        </div>
-    )
+    return <h1>NewProject</h1>
 }
 
 export default NewProject
